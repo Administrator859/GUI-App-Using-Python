@@ -1,0 +1,7 @@
+python==3+
+[1.] open Sublime Text or any programing apps and run this code(app.py)
+[2.] Press -Open File- to browse your apps you will open every day
+[3.] If you Press Run App, all app you put in, all apps or files in there will open
+[4.] Its ok to Exit the program but be sure your File is in your Desktop 
+[5.] you will not open any programing apps just click app.py and boom your program and apps you put in 
+is there just click open file to open all the apps or file you put.
